@@ -1,9 +1,9 @@
 <scheme name="Half-Life (Dark)" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2023-04-19T13:03:23</property>
+    <property name="created">2023-04-19T13:14:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-04-19T13:03:38</property>
+    <property name="modified">2023-04-19T13:14:53</property>
     <property name="originalScheme">Half-Life (Dark)</property>
   </metaInfo>
   <colors>
@@ -389,7 +389,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="fb7e14" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -400,7 +400,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f9d423" />
+        <option name="FOREGROUND" value="fb7e14" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -60212,12 +60212,6 @@
     </option>
     <option name="PHP_BRACKETS">
       <value />
-    </option>
-    <option name="PHP_CONSTANT">
-      <value>
-        <option name="FOREGROUND" value="a5c25c" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
