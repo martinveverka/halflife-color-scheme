@@ -1,9 +1,9 @@
 <scheme name="MV 2019 Halflife" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-12-16T16:51:51</property>
+    <property name="created">2020-12-20T17:06:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-16T16:52:03</property>
+    <property name="modified">2020-12-20T17:07:09</property>
     <property name="originalScheme">MV Halflife</property>
   </metaInfo>
   <colors>
@@ -60238,6 +60238,13 @@
         <option name="FOREGROUND" value="8888c6" />
       </value>
     </option>
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PY.DECORATOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
