@@ -1,9 +1,9 @@
 <scheme name="Half-Life (Dark)" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2023-04-19T11:56:27</property>
+    <property name="created">2023-04-19T13:03:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-04-19T11:56:47</property>
+    <property name="modified">2023-04-19T13:03:38</property>
     <property name="originalScheme">Half-Life (Dark)</property>
   </metaInfo>
   <colors>
@@ -389,7 +389,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="f9d423" />
+        <option name="FOREGROUND" value="fb7e14" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -427,7 +427,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="f9d423" />
+        <option name="FOREGROUND" value="fbaa14" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -463,7 +463,12 @@
         <option name="FOREGROUND" value="7d8991" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="FOREGROUND" value="fb7e14" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="505050" />
@@ -60222,6 +60227,11 @@
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="7d8991" />
+      </value>
+    </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="e7f9a6" />
       </value>
     </option>
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
